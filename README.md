@@ -88,7 +88,7 @@ pdf4dev.htmlToPdf(html).then((operation) => {
 });
 ```
 
-🎉 That's all! You can check for more examples [here](#examples).
+🎉 That's all! You can check for more below or [here]((https://github.com/pdf4dev/pdf4dev-node-client/tree/main/examples).
 
 ## 📥 Downloading the files
 
@@ -128,7 +128,7 @@ const buffer = fs.readFileSync("./local-file.pdf");
 await pdf4dev.barcodeReader(buffer);
 ```
 
-## 🪄 Examples
+## ✨ Examples
 
 💡 You can find these examples and more within the project [right here](https://github.com/pdf4dev/pdf4dev-node-client/tree/main/examples).
 
