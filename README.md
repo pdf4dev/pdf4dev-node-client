@@ -31,7 +31,7 @@ Register now and receive 50 credits for free. ❤️
 
 #### QR - Barcodes:
 
-- Read QR - Barcodes from a PDF or a Image file.
+- Read QR - Barcodes from a PDF or an Image file.
 - Create QR - Barcodes.
 
 #### Create Documents:
