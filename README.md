@@ -88,7 +88,7 @@ pdf4dev.htmlToPdf(html).then((operation) => {
 });
 ```
 
-🎉 That's all! You can check for more below or [here]((https://github.com/pdf4dev/pdf4dev-node-client/tree/main/examples).
+🎉 That's all! You can check for more below or [here](https://github.com/pdf4dev/pdf4dev-node-client/tree/main/examples).
 
 ## 📥 Downloading the files
 
