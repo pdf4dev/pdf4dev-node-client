@@ -1,6 +1,6 @@
 {
   "name": "pdf4dev-node-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PDF4.dev - Node Client",
   "license": "MIT",
   "main": "dist/index.js",
