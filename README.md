@@ -88,7 +88,7 @@ pdf4dev.htmlToPdf(html).then((operation) => {
 });
 ```
 
-🎉 That's all! You can check for more below or [here](https://gitlab.com/pdf4dev/pdf4dev-node-client/-/tree/main/examples).
+🎉 That's all! You can check for more below or [here](https://github.com/pdf4dev/pdf4dev-node-client/tree/main/examples.
 
 ## 📥 Downloading the files
 
@@ -130,7 +130,7 @@ await pdf4dev.barcodeReader(buffer);
 
 ## ✨ Examples
 
-💡 You can find these examples and more within the project [right here](https://gitlab.com/pdf4dev/pdf4dev-node-client/-/tree/main/examples).
+💡 You can find these examples and more within the project [right here](https://github.com/pdf4dev/pdf4dev-node-client/tree/main/examples).
 
 ### HTML to PDF
 
@@ -188,7 +188,7 @@ const operation = await pdf4dev.webToImage(url, {
 });
 ```
 
-💡 Check out for more examples [here](https://gitlab.com/pdf4dev/pdf4dev-node-client/-/tree/main/examples).
+💡 Check out for more examples [here](https://github.com/pdf4dev/pdf4dev-node-client/tree/main/examples).
 
 ## 💣 Advanced options
 
