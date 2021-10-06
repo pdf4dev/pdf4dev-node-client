@@ -1,7 +1,18 @@
 {
   "name": "pdf4dev-node-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PDF4.dev - Node Client",
+  "homepage": "https://pdf4.dev",
+  "repository": "github:pdf4dev/pdf4dev-node-client",
+  "keywords": [
+    "html to pdf",
+    "webpage to pdf",
+    "document to pdf",
+    "read qr from pdf",
+    "read barcode from pdf",
+    "webpage screenshot",
+    "convert pdf"
+  ],
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
